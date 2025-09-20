@@ -1,0 +1,18 @@
+[
+    {
+        "mata": "Kalkulus",
+        "hari": "Monday",
+        "jam": "08.00-10.00",
+        "ruangan": "F3.1",
+        "dosen": "Uun",
+        "sks": 3
+    },
+    {
+        "mata": "Kewirausahaan",
+        "hari": "Sunday",
+        "jam": "08.00-10.00",
+        "ruangan": "F3.2",
+        "dosen": "Nurul",
+        "sks": 2
+    }
+]
